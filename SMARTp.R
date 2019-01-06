@@ -1,5 +1,11 @@
-#### Sample Size calculation for the "SMARTp" Design from "SMARTp: A SMART design for non-surgical treatments of chronic periodontitis with spatially-referenced and non-randomly 
-#### missing skewed outcomes", by Xu, Bandyopadhyay, Mirzaei, Michalowicz, and Chakraborty, (Under Review)
+#### Sample Size calculation for the "SMARTp" Design from 
+
+#### "SMARTp: A SMART design for non-surgical treatments of chronic periodontitis with spatially-referenced and non-randomly missing 
+#### skewed outcomes", 
+
+####  by 
+
+#### Xu, Bandyopadhyay, Mirzaei, Michalowicz, and Chakraborty, (Under Review)
 
 
 #### A Summary of the Design 
