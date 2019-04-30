@@ -1,0 +1,18 @@
+Package: SMARTp
+Type: Package
+Title: Sample size calculation under a sequential multiple assignment
+        randomized trial (SMART) design for clustered clinical
+        attachment level (CAL) outcomes observed in a non-surgical
+        chronic periodontitis treatments study
+Version: 0.1.1
+Author: Jing Xu, Dipankar Bandyopadhyay, Douglas Azevedo, Bibhas Chakraborty 
+Maintainer: Jing Xu <kenny.xu@duke-nus.edu.sg>
+Description: Sample size calculation to detect dynamic treatment regime (DTR) effects based on change in CAL outcomes from a non-surgical chronic periodontitis treatments study. The experiment is performed under a SMART design. The clustered tooth (sub-unit) level CAL outcomes are skewed, spatially-referenced, and non-randomly missing.
+Depends: R (>= 3.5), methods, stats
+Imports: sn, mvtnorm
+License: LGPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+Packaged: 2019-04-30 17:17:33 UTC; douglas
